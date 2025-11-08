@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" role="img" aria-label="Sant logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0a84ff" />
+      <stop offset="1" stop-color="#30d158" />
+    </linearGradient>
+  </defs>
+  <rect width="240" height="60" rx="10" fill="none" />
+  <g transform="translate(12,6)">
+    <!-- simple mark -->
+    <circle cx="18" cy="18" r="16" fill="url(#g)" />
+    <path d="M12 18c0-3 6-9 12-9s12 6 12 9-6 9-12 9S12 21 12 18z" fill="#fff" opacity="0.06"/>
+    <!-- wordmark -->
+    <text x="48" y="28" font-family="-apple-system, Roboto, system-ui, sans-serif" font-weight="700" font-size="20" fill="#ffffff">SANT</text>
+  </g>
+</svg>
